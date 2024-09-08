@@ -1,5 +1,3 @@
-# YT_Django_Project_Ecommerce_v1_Part3
-
 ## Instructions
 
 1. Download
